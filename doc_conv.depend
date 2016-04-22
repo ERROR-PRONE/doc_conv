@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1461355286 source:/home/bryan/Storage/Documents/Projects/git-repos/doc_conv/src_proof/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<bitset>
+	<sys/stat.h>
+
