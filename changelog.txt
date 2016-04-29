@@ -11,5 +11,6 @@
 	* The ability to do this without losing data; rewriting it to a new file shows no loss of data.
 	* The ability to locate and extract elements of a PDF file, e.g. a stream object.
 	Our next goal is to decompress a stream object of a PDF.
+	Note: On next revision, merge Bryan's code into Allan's.
 
 ####################

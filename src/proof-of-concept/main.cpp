@@ -1,6 +1,11 @@
 /*
- * Copyright (c) 2016 Error Prone, All Rights Reserved
- * Error Prone is: Allan Manangan, Bryan Haley, Christopher Wirtes, Joey Cauthen
+   AUTHOR: ERROR-PRONE et al.
+           See the /authors.text file for contributors.
+   FILE: main.cpp
+   VERSION: 0.1
+
+   This is a proof-of-concept for converting document formats (without
+   external libraries)
 */
 
 #include <iostream>

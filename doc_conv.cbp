@@ -34,7 +34,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="src_proof/main.cpp" />
+		<Unit filename="src/proof-of-concept/main.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
