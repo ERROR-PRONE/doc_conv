@@ -1,0 +1,15 @@
+#### 2016-04-29 ####
+
+### Commit name
+ - Data Rentention Test
+### Added
+ - Code for successful data rention test.
+###
+ - Description:
+	This test demonstrates the following:
+	* The ability to read PDF files in a way where we can understand or modify the data.
+	* The ability to do this without losing data; rewriting it to a new file shows no loss of data.
+	* The ability to locate and extract elements of a PDF file, e.g. a stream object.
+	Our next goal is to decompress a stream object of a PDF.
+
+####################
